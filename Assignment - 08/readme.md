@@ -2,6 +2,8 @@
 
 1) Nikhil Sainath Karmare (1262243774)
 2) Sahil Mangesh Pawar (1262243540)
+3) Arhaan Mulani (1032240059)
+4) Akshwaj Rao (1262240046)
 
 # Figma Prototype Link : 
 
